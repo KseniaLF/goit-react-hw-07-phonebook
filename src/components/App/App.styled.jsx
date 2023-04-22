@@ -6,7 +6,7 @@ export const AppContainer = styled.div`
   border-radius: 5px;
   padding: 20px;
   font-size: 30px;
-
+  width: 500px;
   /* max-width: 500px; */
 
   h1 {
@@ -22,7 +22,7 @@ export const AppContainer = styled.div`
   button {
     font-size: 25px;
     border-radius: 5px;
-    padding: 5px 15px;
+    padding: 5px 10px;
     background-color: #8387d186;
     border: 1px solid black;
     cursor: pointer;

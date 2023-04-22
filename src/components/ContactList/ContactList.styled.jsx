@@ -20,9 +20,10 @@ export const ContactContainer = styled.div`
 `;
 
 export const DeteleBtn = styled.button`
+  display: flex;
   font-size: 18px;
   border-radius: 5px;
-  padding: 0 10px;
+  /* padding: 0 10px; */
   background-color: #8387d186;
   border: 1px solid black;
   cursor: pointer;
